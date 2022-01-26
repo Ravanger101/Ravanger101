@@ -47,6 +47,6 @@
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
 	<p>
 	</p>
-	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
+	<a href="https://github.com/aniket7515"><img src="https://img.shields.io/badge/-aniket7515-333333?style-flat&logo=github"></a> <!--Aniket Dhokane (Big Brother)-->
 </i>
 <hr>
