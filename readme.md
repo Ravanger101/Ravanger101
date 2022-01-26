@@ -41,7 +41,7 @@
  
 <hr>
 <i align="Left">
-	# My Supporters:
+# My Supporters:
 	<p>
 	</p>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
