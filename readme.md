@@ -41,6 +41,7 @@
  
 <hr>
 <i align="center">
-	"The computer was born to solve problems that did not exist before." — Bill Gates
+	My Supporters:
+	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
 </i>
 <hr>
