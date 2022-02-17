@@ -5,7 +5,7 @@
 	<a href="https://github.com/Ravanger101"><img src="https://gpvc.arturio.dev/Ravanger101"></a> <!--Profile views-->
 	<a href="mailto:panther2008aryan101@gmail.com"><img src="https://img.shields.io/badge/My-Email-red.svg"></a> <!--Email-->
 	<a href="https://github.com/Ravanger101"><img src="https://img.shields.io/github/stars/Ravanger101"></a> <!--Stars-->
-    <a href="https://ravanger101.github.io/Dragon_Realms_Website/"><img src="https://img.shields.io/badge/My-Website-yellow"></a> <!--Website-->
+    <a href="https://ravanger101.github.io/DragonRealmsWebsite/"><img src="https://img.shields.io/badge/My-Website-yellow"></a> <!--Website-->
     <a href="https://discord.gg/s3HKTUJcpk"><img src="https://img.shields.io/badge/Discord-Optimus Prime%239537-blueviolet?logo=discord"></a> <!--Discord-->
 </p>
 
