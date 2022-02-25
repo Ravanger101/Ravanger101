@@ -7,7 +7,7 @@
 	<a href="https://github.com/Ravanger101"><img src="https://img.shields.io/github/stars/Ravanger101"></a> <!--Stars-->
     <a href="https://ravanger101.github.io/DragonRealmsWebsite/"><img src="https://img.shields.io/badge/My-Website-yellow"></a> <!--Website-->
 	<a href="https://aryan-gore.itch.io/"><img src="https://img.shields.io/badge/Itch-red"></a> <!--Itch-->
-    <a href="https://discord.gg/s3HKTUJcpk"><img src="https://img.shields.io/badge/Discord-Optimus Prime%239537-blueviolet?logo=discord"></a> <!--Discord-->
+    <a href="https://discord.gg/s3HKTUJcpk"><img src="https://img.shields.io/badge/Discord-Razor#4662-blueviolet?logo=discord"></a> <!--Discord-->
 </p>
 
 <!--<p align="center">
