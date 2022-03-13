@@ -26,7 +26,7 @@
 - 🎮 Python Games
 - 💻 HTML & Web Development
 - 📜 Visual Scripting
-<a href="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
+- <a href="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
 
 <hr>
 <i align="center">
