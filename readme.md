@@ -27,6 +27,7 @@
 - 💻 HTML & Web Development
 - 📜 Visual Scripting
 - <a href="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
+- <a href="https://xpvilion.github.io/XPV/">Other website made by me</a>
 
 <hr>
 <i align="center">
