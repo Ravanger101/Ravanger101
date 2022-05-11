@@ -29,7 +29,7 @@
 - Game Development
 - I can build Websites for you!
 - <a href="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
-- <a href="https://xpvilion.github.io/XPV/">Other website made by me</a>
+- <a href="https://xpavilion.github.io/">Other website made by me</a>
 
 <hr>
 <i align="center">
