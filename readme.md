@@ -1,11 +1,6 @@
 <h1 align="center">Hello 👋, Guys I am Aryan</h1>
 <h3 align="center">😄 Welcome to my Github Profile 😄</h3>
 
-<p align="left">
-	<a href="https://github.com/Ravanger101"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravanger101&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Complete%29"></a>
-</p>
-
-
 - 🔭 I’m currently working on [My Website and Game Development](https://ravanger101.github.io/DragonRealmsWebsite/)
 
 - 🌱 I’m currently learning **Python, HTML, CSS and JavaScript**
@@ -21,6 +16,10 @@
 - 📫 How to reach me **panther2008aryan101@gmail.com**
 
 - ⚡ Fun fact **I Like Laptops. (Especially Gaming one)**
+
+<p align="center">
+	<a href="https://github.com/Ravanger101"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravanger101&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Complete%29"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
