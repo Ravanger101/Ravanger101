@@ -46,4 +46,4 @@
 <p align="center">
   <img src="GIF.svg" alt="snake"></center>
 </p>
-<h1 align= "center">See Ys Around Developers!</h1>
+<h1 align= "center">See Ya Around Developers!</h1>
