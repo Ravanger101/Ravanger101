@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanger101&label=Profile%20views&color=0e75b6&style=flat" alt="ravanger101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanger101" alt="ravanger101" /></a> </p>
-
 - 🔭 I’m currently working on [My Website and Game Development](https://ravanger101.github.io/DragonRealmsWebsite/)
 
 - 🌱 I’m currently learning **Python, HTML, CSS and JavaScript**
