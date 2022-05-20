@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanger101&label=Profile%20views&color=0e75b6&style=flat" alt="ravanger101" /> </p>
 
+<p align="center">
+	<a href="https://github.com/Ravanger101"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravanger101&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Complete%29"></a>
+</p>
+
+
 - 🔭 I’m currently working on [My Website and Game Development](https://ravanger101.github.io/DragonRealmsWebsite/)
 
 - 🌱 I’m currently learning **Python, HTML, CSS and JavaScript**
