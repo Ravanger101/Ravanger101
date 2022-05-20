@@ -1,41 +1,39 @@
-<h2 align="center">Hello There! I am Demon Salyer<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">Welcome to my Github profile!</p>
+<h1 align="center">Hello, Guys I am Aryan</h1>
+<h3 align="center">Welcome to my Github Profile.</h3>
 
-<p align="center">
-	<a href="https://github.com/Ravanger101"><img src="https://gpvc.arturio.dev/Ravanger101"></a> <!--Profile views-->
-	<a href="mailto:panther2008aryan101@gmail.com"><img src="https://img.shields.io/badge/My-Email-red.svg"></a> <!--Email-->
-	<a href="https://github.com/Ravanger101"><img src="https://img.shields.io/github/stars/Ravanger101"></a> <!--Stars-->
-    <a href="https://ravanger101.github.io/DragonRealmsWebsite/"><img src="https://img.shields.io/badge/My-Website-yellow"></a> <!--Website-->
-	<a href="https://aryan-gore.itch.io/"><img src="https://img.shields.io/badge/Itch-red"></a> <!--Itch-->
-    <a href="https://discord.gg/s3HKTUJcpk"><img src="https://img.shields.io/badge/Discord-Razor#4662-blueviolet?logo=discord"></a> <!--Discord-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanger101&label=Profile%20views&color=0e75b6&style=flat" alt="ravanger101" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanger101" alt="ravanger101" /></a> </p>
+
+- 🔭 I’m currently working on [My Website and Game Development](https://ravanger101.github.io/DragonRealmsWebsite/)
+
+- 🌱 I’m currently learning **Python, HTML, CSS and JavaScript**
+
+- 👯 I’m looking to collaborate on [Unity Game Dev and Web Dev](https://unity.com/)
+
+- 🤝 I’m looking for help with **Developer**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ravanger101?tab=repositories](https://github.com/Ravanger101?tab=repositories)
+
+- 💬 Ask me about **Game Development and Web.**
+
+- 📫 How to reach me **panther2008aryan101@gmail.com**
+
+- ⚡ Fun fact **I Like Laptops. (Especially Gaming one)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/demon slayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="demon slayer" height="30" width="40" /></a>
 </p>
 
-<!--<p align="center">
-	<a href="https://github.com/Ravanger101/Ravanger101/actions/workflows/metrics.yml"><img src="https://github.com/Ravanger101/Ravanger101/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
-</p>-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ravanger101&no-frame=true&column=6&theme=onedark"></a> <!--Trophies-->
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravanger101&show_icons=true&locale=en&layout=compact" alt="ravanger101" /></p>
 
-<!--<p>
-	<img src="https://github.com/Ravanger101/Ravanger101/blob/main/github-metrics.svg">
-</p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravanger101&show_icons=true&locale=en" alt="ravanger101" /></p>
 
-#### I'm working on:
-- 🎮 Python Games
-- 💻 HTML & Web Development
-- 📜 Visual Scripting
-- Game Development
-- I can build Websites for you!
-- <a href="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
-- <a href="https://xpavilion.github.io/">Other website made by me</a>
-
-<hr>
-<i align="center">
-	"Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains." — Bill Gates
-</i>
-<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravanger101&" alt="ravanger101" /></p>
 
 <details><summary>My Statistics</summary>
 <hr>
