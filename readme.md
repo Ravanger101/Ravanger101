@@ -43,4 +43,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=Ravanger101&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+<p align="center">
+  <img src="GIF.svg" alt="snake"></center>
+</p>
 <h1 align= "center">(っ^‿^)っ</h1>
