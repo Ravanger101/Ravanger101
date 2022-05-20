@@ -2,6 +2,7 @@
 <h3 align="center">Welcome to my Github Profile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanger101&label=Profile%20Views&color=0e75b6&style=flat" alt="ravanger101" /> </p>
+<a href="https://github.com/Ravanger101"><img src="https://img.shields.io/github/stars/Ravanger101"></a>
 
 <p align="left">
 	<a href="https://github.com/Ravanger101"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravanger101&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Complete%29"></a>
