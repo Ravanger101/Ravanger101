@@ -47,4 +47,6 @@
 <p align="center">
   <img src="GIF.svg" alt="snake"></center>
 </p>
+src="https://github.com/Ravanger101/Ravanger101/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
+</p>
 <h1 align= "center">See Ya Around Developers!</h1>
