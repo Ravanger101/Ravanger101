@@ -1,22 +1,22 @@
-<h1 align="center">Hello 👋, Guys I am Aryan</h1>
-<h3 align="center">😄 Welcome to my Github Profile 😄</h3>
+<h1 align="center">Hello, I am Aryan!</h1>
+<h3 align="center">Welcome to my GitHub Profile...</h3>
 
-- 🔭 I’m currently working on [My Website and Game Development](https://ravanger101.github.io/DragonRealmsWebsite/)
-- [My Biggest Web-development Project](https://xpavilion.github.io/)
+- 🔭 I’m currently working on [my website and game development](https://ravanger101.github.io/DragonRealmsWebsite/).
+- [My biggest web-development project](https://xpavilion.github.io/)
 - 🌱 I’m currently learning **Python, HTML, CSS and JavaScript**
 
 - 👯 I’m looking to collaborate on [Unity Game Dev and Web Dev](https://unity.com/)
 
-- 🤝 I’m looking for help with **Developer**
+- 🤝 I’m looking for help with **Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ravanger101?tab=repositories](https://github.com/Ravanger101?tab=repositories)
+- 👨‍💻 All of my projects are available in [the `Repositories` tab](https://github.com/Ravanger101?tab=repositories)
 
 - 💬 Ask me about **Game Development and Web.**
 
 - 📫 How to reach me **panther2008aryan101@gmail.com**
 - My First Windows Application: [Click me to Download](https://github.com/Ravanger101/Cal_WinForm)
 
-- ⚡ Fun fact **I Like Laptops. (Especially Gaming one)**
+- ⚡ Fun fact **I Like Laptops (Especially Gaming ones!)**
 
 <p align="center">
 	<a href="https://github.com/Ravanger101"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravanger101&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Complete%29"></a>
@@ -47,4 +47,4 @@
 <p align="center">
   <img src="GIF.svg" alt="snake"></center>
 </p>
-<h1 align= "center">See Ya Around Developers!</h1>
+<h1 align= "center">See ya around, developers!</h1>
