@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Unity Game Dev and Web Dev](https://unity.com/)
 
-- 🤝 I’m looking for help with **Development**
+- 🤝 I’m looking for help with **Web Development Ideas **
 
 - 👨‍💻 All of my projects are available in [the `Repositories` tab](https://github.com/Ravanger101?tab=repositories)
 
