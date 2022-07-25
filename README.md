@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub Profile...</h3>
 
 - 🔭 I’m currently working on [my website and game development](https://ravanger101.github.io/DragonRealmsWebsite/).
-- [My biggest web-development project](https://xpavilion.github.io/)
+- [My Biggest Project](https://xpavilion.github.io/)
 - 🌱 I’m currently learning **Python, HTML, CSS and JavaScript**
 - Website on Original Domain: https://dragonrealms.netlify.app/
 
@@ -26,6 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UC1_7yEyiRyD2qsBpZR4kZ8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="demon slayer" height="30" width="40" /></a>
+LinkedIn: https://www.linkedin.com/in/aryangore/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
