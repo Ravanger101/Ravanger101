@@ -49,8 +49,8 @@
 <p align="center">
   <img src="GIF.svg" alt="snake"></center>
 </p>
-<p align="center">
-<img src="Matrix-code-gif.gif" alt="Gif"></center>
+<h3 align="center">
+<img src="Matrix-code-gif.gif" alt="Gif">
 I know I can't do this, But it Looks Cool!
-</p>
+</h3>
 <h1 align= "center">See ya around, developers!</h1>
