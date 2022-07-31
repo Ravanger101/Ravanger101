@@ -50,6 +50,7 @@
 </p>
 <p align="center">
   <img src="GIF.svg" alt="snake"></center>
-</p>![2](https://user-images.githubusercontent.com/86346730/182013775-a7b4f443-cd50-41ea-a201-992c4185542e.gif)
+</p>
+![2](https://user-images.githubusercontent.com/86346730/182013775-a7b4f443-cd50-41ea-a201-992c4185542e.gif)
 
 <h1 align= "center">See ya around, developers!</h1>
