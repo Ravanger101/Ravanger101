@@ -1,4 +1,4 @@
-![](https://th.bing.com/th/id/OIP.2tlxHYR6NmA1PVm770FKbAHaEK?pid=ImgDet&rs=1)
+![](Banner.jpg)
 
 <h1 align="center">Hello, I am Aryan!</h1>
 <h3 align="center">Welcome to my GitHub Profile...</h3>
