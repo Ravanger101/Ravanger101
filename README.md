@@ -11,7 +11,7 @@ Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Thin
 
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/github.svg' alt='github'>](https://github.com/Ravanger101)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Website.svg' alt='github' width="32px" height="32px" >](https://ravanger101.github.io/DragonRealmsWebsite/) 
-[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Pr' alt='github'>](https://xpavilion.github.io/)
-[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/LinkedIn.svg' alt='github'>](https://www.linkedin.com/in/aryangore/)
-[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Email.svg' alt='github'>](mailto:panther2008aryan101@gmail.com)
+[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Pr' alt='github' width="32px" height="32px">](https://xpavilion.github.io/)
+[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/LinkedIn.svg' alt='github' width="32px" height="32px">](https://www.linkedin.com/in/aryangore/)
+[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Email.svg' alt='github' width="32px" height="32px">](mailto:panther2008aryan101@gmail.com)
 
