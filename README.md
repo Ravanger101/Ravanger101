@@ -21,9 +21,9 @@ Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Thin
     * Visual Scripting
     * And WinForms Designing
 * 🖥 <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
-* 🧾 My Latest Web Project (https://xpavilion.github.io/)
-* 🎮 My Games (https://aryanthedeveloper.itch.io/)
-* 📁 My Github Project (https://github.com/ProjectDragonRealms)
+* 🧾 <a href ="https://xpavilion.github.io/">My Latest Project</a>
+* 🎮 <href a ="https://aryanthedeveloper.itch.io/">My Games</a>
+* 📁 <href a ="https://github.com/ProjectDragonRealms">My Github Project</a>
 * 🤖 Making new Things, and making it work.
 * 😎 FUN FACT: I like Laptop💻(Especially Gameing one!)
 
