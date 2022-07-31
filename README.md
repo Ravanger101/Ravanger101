@@ -13,7 +13,15 @@ Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Thin
 ### Skills and Projects:
 * 💻 Web, Game and Software Developer
 * 👨‍💻 Languages Learned:
-    * Python
+    * Python-3.10
+    * HTML (Hypertext Markup Language)
+    * CSS (Cascading Style Sheets)
+    * JS (JavaScript)
+    * C#
+    * Visual Scripting
+    * And WinForms Designing
+* 🤖 Making new Things, and making it work.
+* 😎 FUN FACT: I like Laptop💻(Especially Gameing one!)
 
 ### Connect with me:
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/github.svg' alt='github'>](https://github.com/Ravanger101)
