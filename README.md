@@ -50,6 +50,5 @@
 </p>
 <p align="center">
   <img src="GIF.svg" alt="snake"></center>
-  <img src="1.gif" alt="Githubparty">
 </p>
 <h1 align= "center">See ya around, developers!</h1>
