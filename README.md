@@ -52,3 +52,4 @@
   <img src="GIF.svg" alt="snake"></center>
 </p>
 <h1 align= "center">See ya around, developers!</h1>
+![](https://github.com/Ravanger101/Ravanger101/blob/main/1.gif)
