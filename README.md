@@ -37,6 +37,7 @@ Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Thin
 ## Statistics:
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravanger101&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&langs_count=8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&langs_count=4)
 
 
