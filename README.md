@@ -34,7 +34,9 @@ Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Thin
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/LinkedIn.svg' alt='github' width="32px" height="32px">](https://www.linkedin.com/in/aryangore/)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Email.svg' alt='github' width="32px" height="32px">](mailto:panther2008aryan101@gmail.com)
 
+## Statistics:
+
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravanger101&show_icons=true&theme=dark)
-## Top Languages used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&langs_count=8)
+
 
