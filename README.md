@@ -34,7 +34,6 @@ Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Thin
 ### Connect with me:
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Github.svg' alt='github'>](https://github.com/Ravanger101)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/website.svg' alt='github' width="32px" height="32px" >](https://ravanger101.github.io/DragonRealmsWebsite/) 
-[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Project.svg' alt='github' width="32px" height="32px">](https://xpavilion.github.io/)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Linkedin.svg' alt='github' width="32px" height="32px">](https://www.linkedin.com/in/aryangore/)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/email.svg' alt='github' width="32px" height="32px">](mailto:panther2008aryan101@gmail.com)
 
