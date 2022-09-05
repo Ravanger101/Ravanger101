@@ -11,7 +11,7 @@ Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Thin
 It turned out to be Coding and Game Development. I Thought, we could play games so don't try to make them! From that Day I started learning coding. Quite a Interesting
 story... Isn't it?
 
-[<img src="https://github.com/Ravanger101/Ravanger101/blob/main/MyWebsite.jpg" width="25"/>](https://ravanger101.github.io/DragonRealmsWebsite/)
+[<img src="https://github.com/Ravanger101/Ravanger101/blob/main/MyWebsite.jpg" width="100"/>](https://ravanger101.github.io/DragonRealmsWebsite/)
 
 ### Skills and Projects:
 * 💻 Web, Game and Software Developer
