@@ -7,7 +7,9 @@
 </p>
 
 ### Introduction:
-Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Things! There's a quite cool Story behind everything you can see here. I was playing Video Games one day, after playing I got a Wonderful thought(I don't know where did that idea came from?). I thought these games are fun to play, but how are these games created? From that day I started my Coding Journey...Well now I have learned quite alot Languages. Beside coding I make Lot more cool things, Aurdino Cars, a Steering for a game(Asseto Corsa) I didn't had Steering for the Game to play- So I made one! There are lot more things I have made. There are many Repositories related to it. Well That's it about me, Do feel free to Explore my Github.
+Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Things! I Like to explore things, Recently I made a Aurdino Project (There is a Repository related to it.) I made my First game when I was 12, I got into Coding while Playing a Game. I was playing a Game one day, I wondered how these games are really made? 
+It turned out to be Coding and Game Development. I Thought, we could play games so don't try to make them! From that Day I started learning coding. Quite a Interesting
+story... Isn't it?
 
 ### Skills and Projects:
 * 💻 Web, Game and Software Developer
