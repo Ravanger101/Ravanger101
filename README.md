@@ -36,7 +36,7 @@ story... Isn't it?
 * 😎 FUN FACT: I like Laptop💻(Especially Gaming one!)
 
 ### Connect with me:
-[![](https://img.shields.io/badge/-aniket_dhokane-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/aniket-dhokane-305050207)](https://www.linkedin.com/in/aniket-dhokane-305050207)
+[![](https://img.shields.io/badge/-Aryan™-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/aryangore/)](https://www.linkedin.com/in/aryangore/)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Github.svg' alt='github'>](https://github.com/Ravanger101)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/website.svg' alt='github' width="32px" height="32px" >](https://ravanger101.github.io/DragonRealmsWebsite/) 
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Linkedin.svg' alt='github' width="32px" height="32px">](https://www.linkedin.com/in/aryangore/)
