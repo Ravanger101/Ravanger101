@@ -33,7 +33,7 @@ story... Isn't it?
     * <a href ="https://developers-hall.netlify.app/ravanger101/">Developers Hall</a>
     * 🎃 <a href ="https://github.com/Pokemon-PythonRed/Pokemon-Generator">Pokemon!</a>
 * 🤖 Making new Things, and making it work.
-* 😎 FUN FACT: I like Laptop💻(Especially Gameing one!)
+* 😎 FUN FACT: I like Laptop💻(Especially Gaming one!)
 
 ### Connect with me:
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Github.svg' alt='github'>](https://github.com/Ravanger101)
