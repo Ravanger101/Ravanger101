@@ -17,6 +17,7 @@ story... Isn't it?
 * 💻 Web, Game and Software Developer
 * 👨‍💻 Languages Learned:
     * Python-3.10
+    * ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
     * HTML (Hypertext Markup Language)
     * CSS (Cascading Style Sheets)
     * JS (JavaScript)
