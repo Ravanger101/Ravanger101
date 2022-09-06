@@ -40,6 +40,7 @@ story... Isn't it?
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/website.svg' alt='github' width="32px" height="32px" >](https://ravanger101.github.io/DragonRealmsWebsite/) 
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Linkedin.svg' alt='github' width="32px" height="32px">](https://www.linkedin.com/in/aryangore/)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/email.svg' alt='github' width="32px" height="32px">](mailto:panther2008aryan101@gmail.com)
+Do Follow me on Github!
 
 ## Statistics:
 
