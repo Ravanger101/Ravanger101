@@ -28,7 +28,7 @@ story... Isn't it?
     * 📱 <a href ="https://grandyswebsite.netlify.app/">Grandy's Website</a>
     * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
     * 🎮 <a href ="https://aryanthedeveloper.itch.io/">My Games</a>
-    * 📁 <a href ="https://github.com/ProjectDragonRealms">My Github Project</a>
+    * 📁 <a href ="https://github.com/ProjectDragonRealms">Upcoming Project</a>
     * <a href ="https://dragonrealms.netlify.app/">Netlify</a>
     * <a href ="https://developers-hall.netlify.app/ravanger101/">Developers Hall</a>
     * 😄 Well these are some Websites created by me!
