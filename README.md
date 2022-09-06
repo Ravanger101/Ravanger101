@@ -39,8 +39,7 @@ story... Isn't it?
 [![](https://img.shields.io/badge/-Aryan™-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/aryangore/)](https://www.linkedin.com/in/aryangore/)
 [![](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravanger101)
 [<img src='https://github.com/Ravanger101/Ravanger101/blob/main/website.svg' alt='github' width="32px" height="32px" >](https://ravanger101.github.io/DragonRealmsWebsite/) 
-[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/Linkedin.svg' alt='github' width="32px" height="32px">](https://www.linkedin.com/in/aryangore/)
-[<img src='https://github.com/Ravanger101/Ravanger101/blob/main/email.svg' alt='github' width="32px" height="32px">](mailto:panther2008aryan101@gmail.com)
+[![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
 <h3>Do Follow me on Github!</h3>
 
 ## Statistics:
