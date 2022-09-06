@@ -45,11 +45,8 @@ story... Isn't it?
 ## Statistics:
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravanger101&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&langs_count=4)
-
 ![Aryan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ravanger101&&theme=chartreuse-dark)
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanger101&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="ravanger101" /></a> </p>
 
 
