@@ -8,8 +8,8 @@
 
 ### Introduction:
 Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Things! I Like to explore things, I made my First game when I was 12, I got into Coding while Playing a Game. I was playing a Game one day, I wondered how these games are really made? 
-It turned out to be Coding and Game Development. I Thought, we could play games so don't try to make them! From that Day I started learning coding. Quite a Interesting
-story... Isn't it?
+It turned out to be Coding and Game Development. I Thought, I could play games so let's try to make them! From that Day I started learning coding. Quite a Interesting
+story... Isn't it? I have learned so many new things while coding and it did helped me alot.
 ### Skills and Projects:
 * 💻 Web, Game and Software Developer
 * 👨‍💻 Languages Learned:
