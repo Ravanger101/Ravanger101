@@ -30,8 +30,7 @@ story... Isn't it?
     * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
     * 🎮 <a href ="https://aryanthedeveloper.itch.io/">My Games</a>
     * 📁 <a href ="https://github.com/ProjectDragonRealms">Upcoming Project</a>
-    * <a href ="https://dragonrealms.netlify.app/">Netlify</a>
-    * <a href ="https://developers-hall.netlify.app/ravanger101/">Developers Hall</a>
+    * 😁  <a href ="https://developers-hall.netlify.app/ravanger101/">Developers Hall</a>
     * 🎃 <a href ="https://github.com/Pokemon-PythonRed/Pokemon-Generator">Pokemon!</a>
 * 🤖 Making new Things, and making it work.
 * 😎 FUN FACT: I like Laptop💻(Especially Gaming one!)
