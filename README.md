@@ -19,6 +19,7 @@ story... Isn't it? I have learned so many new things while coding and it did hel
     * ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
     * C#
     * Visual Scripting
+    * Davinci Resolve
     * And WinForms Designing
 * 🖥 My Projects:
     * 🖥️ <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
