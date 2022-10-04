@@ -34,7 +34,7 @@ story... Isn't it? I have learned so many new things while coding and it did hel
     * 🎃 <a href ="https://github.com/Pokemon-PythonRed/Pokemon-Generator">Pokemon!</a>
 * 🤖 Making new Things, and making it work.
 * 😎 FUN FACT: I like Laptop💻(Especially Gaming one!)
-* *Mostly you won't see a README in my repositories, Cause I am Lazy*
+* *Mostly you won't see a README in my repositories, Cause I am Lazy...* (Sigma Rule)
 
 
 ### Connect with me:
