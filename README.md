@@ -47,7 +47,7 @@ story... Isn't it? I have learned so many new things while coding and it did hel
 ## Statistics:
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravanger101&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&layout=compact&theme=tokyonight)
 ![Aryan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ravanger101&&theme=react-dark)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanger101&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="ravanger101" /></a></p>
 
