@@ -18,7 +18,7 @@ I got inspirations from games. I Thought, I could play games so let's try to mak
     * ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     * ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
     * ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-    * ![JavaScript](https://img.shields.io/badge/-C Sharp-black?style=for-the-badge&logo=javascript)
+    * ![JavaScript](https://img.shields.io/badge/-CSharp-black?style=for-the-badge&logo=csharp)
     * C#
     * Visual Scripting
     * Davinci Resolve
