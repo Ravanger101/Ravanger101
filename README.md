@@ -29,7 +29,7 @@ I got inspirations from games. I Thought, I could play games so let's try to mak
     * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
     * 📱 <a href ="https://grandyswebsite.netlify.app/">Grandy's Website</a>
     * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
-    * 🎮 <a href ="https://aryanthedeveloper.itch.io/">My Games</a>
+    * 🎮 <a href ="https://aryanthedeveloper.itch.io">My Games</a>
     * 👾 <a href ="https://github.com/ProjectDragonRealms/DragonRealms-Version1.0">Minecraft PY Version 1.0</a>
     * 📁 <a href ="https://github.com/ProjectDragonRealms">Upcoming Project</a>
     * 😁 <a href ="https://developers-hall.netlify.app/ravanger101/">Developers Hall</a>
