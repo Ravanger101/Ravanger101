@@ -10,7 +10,7 @@
 ### Introduction:
 Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Things! I Like to explore things, Well that's my Hobby. Beside coding I can draw pretty well.
 I got inspirations from games. I Thought, I could play games so let's try to make them! From that Day I started learning coding. I am Game Developer | Web Developer and a Skillfulled Artist Basically I am Cool Guy 😎.
-- *“I think everybody in this country should learn how to program a computer because it teaches you how to think.”- Steve Jobs*
+- *I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12. – Elon Musk*
 
 ### Skills and Projects:
 * 💻 Web, Game and Software Developer
