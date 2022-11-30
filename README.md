@@ -52,7 +52,7 @@ I got inspirations from games. I Thought, I could play games so let's try to mak
 
 ![Aryan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ravanger101&&theme=react-dark)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanger101&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="ravanger101" /></a></p>
-[![wakatime](https://wakatime.com/badge/user/d383038c-190a-4781-9ccf-7b393d798eba.svg)](https://wakatime.com/@d383038c-190a-4781-9ccf-7b393d798eba)
+![wakatime](https://wakatime.com/badge/user/d383038c-190a-4781-9ccf-7b393d798eba.svg)](https://wakatime.com/@d383038c-190a-4781-9ccf-7b393d798eba)
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
 
 
