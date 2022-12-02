@@ -50,7 +50,7 @@ I get inspirations from games. I think, I could play games so let's try to make 
 ## Statistics:
 
 
-![Aryan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ravanger101&&theme=react-dark)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanger101&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="ravanger101" /></a></p>
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
 
