@@ -11,7 +11,7 @@
 Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Things! I Like to explore things, Well that's my Hobby. Beside coding I can draw pretty well.
 I get inspirations from games. I think as per my point of view, I could play games so let's try to make them! About 3 years before I started learning coding. I am a Game Developer | Web Developer and a Skillfull Artist, Basically I am Cool Guy 😎.
 <p><a href="https://aryanresume.netlify.app/">Download Résumé</a></p>
-- *I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12. – Elon Musk*
+- I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12. – Elon Musk
 
 ### Skills and Projects:
 * 💻 Web, Game and Software Developer
