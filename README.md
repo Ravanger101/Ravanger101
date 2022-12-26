@@ -5,9 +5,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ravanger101/count.svg" />
 </p>
-<p align ="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ravanger101&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-</p>
+
 
 
 ### Introduction:
