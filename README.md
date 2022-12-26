@@ -39,9 +39,8 @@ I get inspirations from games. I think as per my point of view, I could play gam
     * 📁 <a href ="https://github.com/ProjectDragonRealms">Upcoming Project</a>
     * 😁 <a href ="https://developers-hall.netlify.app/ravanger101/">Developers Hall</a>
     * 🎃 <a href ="https://pokemon-pythonred.github.io/">Pokemon!</a>
-* 🤖 Making new Things, and making it work.
 * 😎 FUN FACT: There is an Easter Egg in my <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">Website</a>
-* 😂 *Mostly you won't see a README in my repositories, Cause I am Lazy...* (Hehe)
+* 😂 *Mostly you won't see a README in my repositories...* (Hehe)
 
 
 ### Connect with me:
