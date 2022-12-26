@@ -6,7 +6,7 @@
   </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ravanger101/count.svg" />
+  <img src="https://profile-counter.glitch.me/ravanger101/count.svg" width="100"/>
 </p>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ravanger101&data=followers,repositories,stars,commits&theme=darkmode)
