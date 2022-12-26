@@ -1,9 +1,6 @@
 
 <h1 align="center">Hello, I am Aryan!</h1>
 <h3 align="center">Welcome to my GitHub Profile.</h3>
-<div align="center">
-<img src="./1.gif" align="right"  width="200">
-  </div>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ravanger101/count.svg"/>
@@ -51,6 +48,10 @@ I get inspirations from games. I think as per my point of view, I could play gam
 [![](https://img.shields.io/badge/-Website-7e22ff?style=for-the-badge)](https://ravanger101.github.io/DragonRealmsWebsite/)
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
 <h3>Do Follow me on Github!</h3>
+<br>
+<div align="center">
+<img src="./1.gif" align="right"  width="200">
+  </div>
 
 ## Statistics:
 
