@@ -52,8 +52,9 @@ I get inspirations from games. I think as per my point of view, I could play gam
 <h3>Do Follow me on Github!</h3>
 
 ## Statistics:
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanger101&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="ravanger101" /></a></p>
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravanger101&theme=monokai"  display=block width=100% height=auto  alt="1" >
+</div>
 
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
 
