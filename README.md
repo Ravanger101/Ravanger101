@@ -13,11 +13,7 @@ Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Thin
 I get inspirations from games. I think as per my point of view, I could play games so let's try to make them! About 3 years before I started learning coding. I am a Game Developer | Web Developer and a Skillfull Artist, Basically I am Cool Guy 😎.
 <p><a href="https://aryanresume.netlify.app/">Download Résumé</a></p>
 
-### Skills and Projects:
-
-
-* 💻 Web, Game and Software Developer
-* 👨‍💻 Languages Learned:
+### ʟᴀɴɢᴜᴀɢᴇꜱ:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 * 🖥 My Projects:
     * 🖥️ <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
