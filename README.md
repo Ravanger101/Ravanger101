@@ -1,8 +1,8 @@
 
-<h1 align="center">Hello, I am Aryan!</h1>
+<h1 align="center">Hello, I am Aryan!
 <div>
 <img src="./1.gif" align="center"  width="200">
-  </div>
+  </div></h1>
 <h3 align="center">Welcome to my GitHub Profile.</h3>
 <p align="center"> 
   Visitor count<br>
