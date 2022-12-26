@@ -53,7 +53,7 @@ I get inspirations from games. I think as per my point of view, I could play gam
 
 ## Statistics:
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravanger101&theme=monokai"  display=block width=100% height=auto  alt="1" >
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravanger101&theme=github_dark)
 </div>
 
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
