@@ -2,11 +2,11 @@
 <h1 align="center">Hello, I am Aryan!</h1>
 <h3 align="center">Welcome to my GitHub Profile.</h3>
 <div align="center">
-<img src="./1.gif" align="right">
+<img src="./1.gif" align="right"  width="100>
   </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ravanger101/count.svg" width="100"/>
+  <img src="https://profile-counter.glitch.me/ravanger101/count.svg"/>
 </p>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ravanger101&data=followers,repositories,stars,commits&theme=darkmode)
