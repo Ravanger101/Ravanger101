@@ -47,7 +47,6 @@ I get inspirations from games. I think as per my point of view, I could play gam
 [![](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravanger101) 
 [![](https://img.shields.io/badge/-Website-7e22ff?style=for-the-badge)](https://ravanger101.github.io/DragonRealmsWebsite/)
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
-<h3>Do Follow me on Github!</h3>
 <br>
 
 
@@ -57,9 +56,11 @@ I get inspirations from games. I think as per my point of view, I could play gam
 ![](https://github-readme-stats.vercel.app/api?username=Ravanger101&show_icons=true&theme=github_dark)
 
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
+  <br>
   <div align="center">
 <img src="./1.gif" align="right"  width="200">
   </div>
+  
 
 
 
