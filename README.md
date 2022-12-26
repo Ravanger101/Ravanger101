@@ -52,9 +52,8 @@ I get inspirations from games. I think as per my point of view, I could play gam
 <h3>Do Follow me on Github!</h3>
 
 ## Statistics:
-<div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravanger101&theme=github_dark)
-</div>
 
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
 
