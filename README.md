@@ -32,7 +32,6 @@ I get inspirations from games. I think as per my point of view, I could play gam
 * 🖥 My Projects:
     * 🖥️ <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
     * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
-    * 📱 <a href ="https://grandyswebsite.netlify.app/">Grandy's Website</a>
     * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
     * 🎮 <a href ="https://turnipguy30.me/">Turnip's Website</a>
     * 👾 <a href ="https://github.com/ProjectDragonRealms/DragonRealms-Version1.0">Minecraft PY Version 1.0</a>
