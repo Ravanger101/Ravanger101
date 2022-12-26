@@ -12,7 +12,7 @@
 Hello, I am Aryan. I Am 14 years old and I love to Code, Study, Watch Anime and make new Things! I Like to explore things, Well that's my Hobby. Beside coding I can draw pretty well.
 I get inspirations from games. I think as per my point of view, I could play games so let's try to make them! About 3 years before I started learning coding. I am a Game Developer | Web Developer and a Skillfull Artist, Basically I am Cool Guy 😎.
 <div align="center">
-<img src="./1.gif" align="right"  width="200">
+<img src="./3.gif" align="right"  width="200">
   </div>
 <p><a href="https://aryanresume.netlify.app/">Download Résumé</a></p>
 
