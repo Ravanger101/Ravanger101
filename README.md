@@ -37,7 +37,7 @@ I get inspirations from games. I think as per my point of view, I could play gam
 
 
 
-### Connect with me: <img src="./giphy.gif" width="70">
+### Connect with me:
 [![](https://img.shields.io/badge/-Aryan™-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/aryangore/)](https://www.linkedin.com/in/aryangore/)
 [![](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravanger101) 
 [![](https://img.shields.io/badge/-Website-7e22ff?style=for-the-badge)](https://ravanger101.github.io/DragonRealmsWebsite/)
