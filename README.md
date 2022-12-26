@@ -16,7 +16,7 @@ I get inspirations from games. I think as per my point of view, I could play gam
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ:
 <div align="center">
-<img src="./3.gif" align="right"  width="200">
+<img src="./2.gif" align="right"  width="200">
 </div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
