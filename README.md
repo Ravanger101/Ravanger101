@@ -16,6 +16,10 @@ I get inspirations from games. I think as per my point of view, I could play gam
 <p><a href="https://aryanresume.netlify.app/">Download Résumé</a></p>
 
 ### Skills and Projects:
+
+<div align="center">
+<img src="./2.gif" align="center"  width="200">
+  </div>
 * 💻 Web, Game and Software Developer
 * 👨‍💻 Languages Learned:
     * ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
@@ -39,6 +43,7 @@ I get inspirations from games. I think as per my point of view, I could play gam
     * 🎃 <a href ="https://pokemon-pythonred.github.io/">Pokemon!</a>
 * 😎 FUN FACT: There is an Easter Egg in my <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">Website</a>
 * 😂 *Mostly you won't see a README in my repositories...* (Hehe)
+
 
 
 ### Connect with me:
