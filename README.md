@@ -18,6 +18,7 @@ I get inspirations from games. I think as per my point of view, I could play gam
 <div align="center">
 <img src="./3.gif" align="right"  width="200">
 </div>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
