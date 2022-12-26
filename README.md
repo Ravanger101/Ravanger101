@@ -42,7 +42,6 @@ I get inspirations from games. I think as per my point of view, I could play gam
 [![](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravanger101) 
 [![](https://img.shields.io/badge/-Website-7e22ff?style=for-the-badge)](https://ravanger101.github.io/DragonRealmsWebsite/)
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
-<br>
 
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34F762&width=600&lines=Statistcs:)
