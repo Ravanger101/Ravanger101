@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I am Aryan!
 <div>
-<img src="./2.gif" align="center"  width="200">
+<img src="./2.gif" align="left"  width="200">
   </div></h1>
 <h3 align="center">Welcome to my GitHub Profile.</h3>
 <p align="center"> 
