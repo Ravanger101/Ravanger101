@@ -58,9 +58,9 @@ I get inspirations from games. I think as per my point of view, I could play gam
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
   <br>
   <div align="center">
-<img src="./1.gif" align="right"  width="200">
+<img src="./1.gif" align="center"  width="200">
   </div>
-  
+  <h3>★彡[ᴡᴀᴛᴄʜ ᴍᴇ ꜰɪx ᴍʏ ʜᴇᴀᴅ ʙᴀɴᴅ]彡★</h3>
 
 
 
