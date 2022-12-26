@@ -6,6 +6,8 @@
   <img src="https://profile-counter.glitch.me/ravanger101/count.svg" />
 </p>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
 
 ### Introduction:
 Hello, I am Aryan. I Am 14 years old and I love to Code, Study and make new Things! I Like to explore things, Well that's my Hobby. Beside coding I can draw pretty well.
