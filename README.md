@@ -20,6 +20,7 @@ I get inspirations from games. I think as per my point of view, I could play gam
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![C#](https://img.shields.io/badge/-C#%20Pi-C51A4A?style=flat-square&logo=C#)
 * 🖥 My Projects:
     * 🖥️ <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
     * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
