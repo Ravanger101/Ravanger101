@@ -1,5 +1,8 @@
 
 <h1 align="center">Hello, I am Aryan!</h1>
+<div>
+<img src="./1.gif" align="center"  width="200">
+  </div>
 <h3 align="center">Welcome to my GitHub Profile.</h3>
 <p align="center"> 
   Visitor count<br>
