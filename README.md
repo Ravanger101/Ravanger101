@@ -16,7 +16,7 @@ I get inspirations from games. I think as per my point of view, I could play gam
 ### Skills and Projects:
 
 <div align="center">
-<img src="./2.gif" align="right"  width="200">
+<img src="./2.gif" align="right"  width="400">
 </div>
 
 * 💻 Web, Game and Software Developer
