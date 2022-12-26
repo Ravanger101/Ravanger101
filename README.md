@@ -18,16 +18,7 @@ I get inspirations from games. I think as per my point of view, I could play gam
 
 * 💻 Web, Game and Software Developer
 * 👨‍💻 Languages Learned:
-    * ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-    * ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    * ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-    * ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-    * ![CSharp](https://img.shields.io/badge/-CSharp-black?style=for-the-badge&logo=csharp)
-    * Unity
-    * VRoid Character Design
-    * Visual Scripting
-    * Davinci Resolve
-    * And WinForms Designing
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 * 🖥 My Projects:
     * 🖥️ <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
     * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
