@@ -28,7 +28,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![CSharp](https://img.shields.io/badge/-CSharp-1572B6?style=flat-square&logo=csharp)
 
-* 🖥 My Projects:
+* 🖥 Top Projects:
     * 🖥️ <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">My Website</a>
     * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
     * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
