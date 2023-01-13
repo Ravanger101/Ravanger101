@@ -50,7 +50,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
 
 
-# ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34F762&width=200&lines=Statistics:)
+### Statistics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravanger101&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api?username=Ravanger101&show_icons=true&theme=github_dark)
 
