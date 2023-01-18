@@ -52,6 +52,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 
 ### Statistics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravanger101&theme=github_dark)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--![](https://github-readme-stats.vercel.app/api?username=Ravanger101&show_icons=true&theme=github_dark)-->
 
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
