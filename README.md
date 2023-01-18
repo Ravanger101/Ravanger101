@@ -37,7 +37,6 @@ I get inspirations from games. About 4 years before I started learning coding. I
     * 📁 <a href ="https://github.com/ProjectDragonRealms">My Organisation</a>
     * 😁 <a href ="https://developers-hall.netlify.app/ravanger101/">Developers Hall</a>
     * 🎃 <a href ="https://pokemon-pythonred.github.io/">Pokemon!</a>
-* 😎 FUN FACT: There is an Easter Egg in my <a href ="https://ravanger101.github.io/DragonRealmsWebsite/">Website</a>
 * 😂 *ᴍᴏꜱᴛʟʏ ʏᴏᴜ ᴡᴏɴ'ᴛ ꜱᴇᴇ ᴀ ʀᴇᴀᴅᴍᴇ ɪɴ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ...* (Hehe)
 
 
