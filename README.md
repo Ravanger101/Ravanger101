@@ -29,6 +29,9 @@ I get inspirations from games. About 4 years before I started learning coding. I
 ![CSharp](https://img.shields.io/badge/-CSharp-1572B6?style=flat-square&logo=csharp)
 
 * 🖥 Top Projects:
+<div align="right">
+  <img src="./3.gif" width="70">
+  </div>
     * 🖥️ <a href ="https://ravanger101.github.io">My Website</a>
     * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
     * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
@@ -49,7 +52,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
 
 
-### Statistics: <img src="./Yay.gif" width="70">
+### Statistics: 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravanger101&theme=github_dark)
 
 <!--![](https://github-readme-stats.vercel.app/api?username=Ravanger101&show_icons=true&theme=github_dark)-->
