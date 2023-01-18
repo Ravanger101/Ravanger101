@@ -29,9 +29,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 ![CSharp](https://img.shields.io/badge/-CSharp-1572B6?style=flat-square&logo=csharp)
 
 * 🖥 Top Projects:
-<div align="right">
-  <img src="./3.gif" width="70">
-  </div>
+
     * 🖥️ <a href ="https://ravanger101.github.io">My Website</a>
     * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
     * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
