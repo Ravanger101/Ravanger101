@@ -18,7 +18,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 <p><a href="https://aryanresume.netlify.app/">Download Résumé</a></p>
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ:
-
+<img src="./Yay.gif" width="70">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
