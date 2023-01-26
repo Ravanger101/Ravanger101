@@ -63,6 +63,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 <img src="./1.gif" align="center"  width="200">
   </div>
   <h3 align="center">★彡[ᴡᴀᴛᴄʜ ᴍᴇ ꜰɪx ᴍʏ ʜᴇᴀᴅ ʙᴀɴᴅ]彡★</h3>
+  <h3 align="center"><a href="https://amongusus.netlify.app/"><img src="./Yay.gif" width="70"></a></h3>
   
  
 
