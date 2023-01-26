@@ -48,7 +48,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 [![](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravanger101) 
 [![](https://img.shields.io/badge/-Website-7e22ff?style=for-the-badge)](https://ravanger101.github.io)
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
-<img src="./Yay.gif" width="70">
+<a href="https://amongusus.netlify.app/"><img src="./Yay.gif" width="70"></a>
 
 
 ### Statistics: 
