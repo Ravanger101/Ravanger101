@@ -64,8 +64,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
   </div>
   <h3 align="center">★彡[ᴡᴀᴛᴄʜ ᴍᴇ ꜰɪx ᴍʏ ʜᴇᴀᴅ ʙᴀɴᴅ]彡★</h3>
   
-  
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/8f72d08a-1c2a-4c02-af26-39a3b609a60d/deploy-status)](https://app.netlify.com/sites/amongusus/deploys)
+ 
 
 
 
