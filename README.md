@@ -15,7 +15,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 <img src="./gif 2.gif" align="right"  width="300">
 </div>
 
-<p><a href="https://aryanresume.netlify.app/">Download Résumé</a></p>
+<p><a href="https://aryanresume.netlify.app/">My Résumé</a></p>
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ:
 
