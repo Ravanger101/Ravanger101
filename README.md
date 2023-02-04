@@ -57,7 +57,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 <!--![](https://github-readme-stats.vercel.app/api?username=Ravanger101&show_icons=true&theme=github_dark)-->
 
 <p><a href="https://gitstats.me/Ravanger101">Detailed Stats</a>
-<hr>
+
 
   <div align="center">
 <img src="./1.gif" align="center"  width="200">
