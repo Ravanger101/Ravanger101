@@ -51,7 +51,7 @@ I get inspirations from games. About 4 years before I started learning coding. I
 <a href="https://amongusus.netlify.app/"><img src="./Yay.gif" width="70"></a>
 
 
-### Click here to view [Statistics](https://metrics.lecoq.io/insights/Ravanger101): 
+### Click here to view [Statistics](https://metrics.lecoq.io/insights/Ravanger101)
 
 
   <div align="center">
