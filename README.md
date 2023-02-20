@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello, I am Aryan! <img src="./3.gif" width="70"></h1>
-<h3 align="center">Welcome to my GitHub Profile.</h3>
+<h3 align="center">Welcome to my GitHub Profile. (Exams going on, Can't stay on github.)
+</h3>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ravanger101/count.svg"/>
