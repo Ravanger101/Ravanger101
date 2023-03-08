@@ -58,8 +58,9 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
   
   
   
-![](https://github-readme-stats.vercel.app/api/?username=ravanger101&count_private=true&theme=tokyonight&showicons=true)]
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&langs_count=5&theme=tokyonight)]
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&langs_count=5&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/?username=ravanger101&count_private=true&theme=tokyonight&showicons=true)
 
 
 </details>
