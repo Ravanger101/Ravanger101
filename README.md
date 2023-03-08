@@ -53,9 +53,13 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
 <a href="https://amongusus.netlify.app/"><img src="./Yay.gif" width="70"></a>
 
 
-### Click here to view [Statistics](https://metrics.lecoq.io/insights/Ravanger101)
+<details>
+  <summary><h2>Statistics</h2></summary>
+![](https://github-readme-stats.vercel.app/api/?username=ravanger101&count_private=true&theme=tokyonight&showicons=true)]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&langs_count=5&theme=tokyonight)]
 
 
+</details>
   <div align="center">
 <img src="./1.gif" align="center"  width="200">
   </div>
