@@ -61,7 +61,10 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
   <div align="center">
 <img src="./KakashiCode.gif" align="center"  width="500">
   </div>
-  <h3 align="center">★彡[ᴡᴀᴛᴄʜ ᴍᴇ ꜰɪx ᴍʏ ʜᴇᴀᴅ ʙᴀɴᴅ]彡★</h3>
+
+
+
+@ Copyright [Ravanger101](https://github.com/Ravanger101)
   
  
 
