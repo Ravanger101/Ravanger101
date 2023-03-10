@@ -35,7 +35,7 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
 [![](https://img.shields.io/badge/-Reddit-cd6532?style=for-the-badge&logo=reddit&logoColor=white)](https://github.com/Ravanger101)
 [![](https://img.shields.io/badge/-Website-7e22ff?style=for-the-badge)](https://ravanger101.github.io)
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
-[![](https://img.shields.io/badge/-Twitter-c14438?style=for-the-badge&logo=twitter&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
+[![](https://img.shields.io/badge/-Twitter-c14438?style=for-the-badge&logo=twitter&logoColor=blue&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
 
 
 <details>
