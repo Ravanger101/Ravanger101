@@ -18,7 +18,7 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
 
 <p><a href="https://aryanresume.netlify.app/">My Résumé</a></p>
 
-### ʟᴀɴɢᴜᴀɢᴇꜱ:
+### Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
