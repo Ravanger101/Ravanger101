@@ -18,7 +18,7 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
 
 <p><a href="https://aryanresume.netlify.app/">My Résumé</a></p>
 
-## Languages:
+### Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -29,7 +29,7 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
 ![CSharp](https://img.shields.io/badge/-CSharp-1572B6?style=flat-square&logo=csharp)
 
 
-## Connect with me:
+### Connect with me:
 
 [![](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravanger101) 
 [![](https://img.shields.io/badge/-Reddit-cd6532?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KakashiHatake_101)
@@ -39,7 +39,7 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
 
 
 <details>
-  <summary><h2>Projects</h2></summary>
+  <summary><h3>Projects</h3></summary>
   
 
   
