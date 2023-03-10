@@ -52,8 +52,6 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
     * 👧 <a href ="https://github.com/ProjectDragonRealms/Inu-Yoshikawa.V.1.0.Benchmark#inu-yoshikawav10benchmark">Inu Yoshikawa Benchmark v1</a>
     * 🎃 <a href ="https://pokemon-pythonred.github.io/">Pokemon!</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravanger101&langs_count=5&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/?username=ravanger101&count_private=true&theme=tokyonight&showicons=true)
 
 
 </details>
