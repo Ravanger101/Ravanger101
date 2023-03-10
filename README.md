@@ -12,10 +12,10 @@
 Hello, I am Aryan. I Am 14 years old and I love to Code, Study, Watch Anime and make new Things! I Like to explore things, Well that's my Hobby. Beside coding I can draw pretty well. 
 I get inspirations from games. About 4 years before I started learning coding. I am a Game Developer | Web Developer and a Skillfull Artist, Basically I am Cool Guy 😎. 
 I go by Usernames - Kakashi, Ravanger101 and Aryan™
-<div align="center">
+<!--<div align="center">
 <img src="./gif 2.gif" align="right"  width="300">
 </div>
-
+-->
 <p><a href="https://aryanresume.netlify.app/">My Résumé</a></p>
 
 ### Languages:
