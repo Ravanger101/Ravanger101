@@ -29,17 +29,12 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
 ![CSharp](https://img.shields.io/badge/-CSharp-1572B6?style=flat-square&logo=csharp)
 
 
-
-
-
-
 ### Connect with me:
 
 [![](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravanger101) 
 [![](https://img.shields.io/badge/-Reddit-cd6532?style=for-the-badge&logo=reddit&logoColor=white)](https://github.com/Ravanger101)
 [![](https://img.shields.io/badge/-Website-7e22ff?style=for-the-badge)](https://ravanger101.github.io)
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:panther2008aryan101@gmail.com)
-<a href="https://amongusus.netlify.app/"><img src="./Yay.gif" width="70"></a>
 
 
 <details>
