@@ -28,18 +28,7 @@ I go by Usernames - Kakashi, Ravanger101 and Aryan™
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![CSharp](https://img.shields.io/badge/-CSharp-1572B6?style=flat-square&logo=csharp)
 
-* 🖥 Top Projects:
 
-    * 🖥️ <a href ="https://ravanger101.github.io">My Website</a>
-    * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
-    * 🛒 <a href ="https://github.com/ProjectDragonRealms/Le-Caddie-#readme">Le Caddie`</a>
-    * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
-    * 🎮 <a href ="https://turnipguy30.me/">Turnip's Website</a>
-    * 👾 <a href ="https://github.com/ProjectDragonRealms/MinecraftClassicPYVersion1.0">Minecraft PY Version 1.0</a>
-    * 📁 <a href ="https://github.com/ProjectDragonRealms">My Organisation</a>
-    * 👧 <a href ="https://github.com/ProjectDragonRealms/Inu-Yoshikawa.V.1.0.Benchmark#inu-yoshikawav10benchmark">Inu Yoshikawa Benchmark v1</a>
-    * 🎃 <a href ="https://pokemon-pythonred.github.io/">Pokemon!</a>
-* 😂 *ᴍᴏꜱᴛʟʏ ʏᴏᴜ ᴡᴏɴ'ᴛ ꜱᴇᴇ ᴀ ʀᴇᴀᴅᴍᴇ ɪɴ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ...* (Hehe)
 
 
 
