@@ -9,9 +9,11 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ravanger101&data=followers,repositories,stars,commits&theme=darkmode)
 
 ### Introduction:
-Hello, I am Aryan. I Am 14 years old and I love to Code, Study, Watch Anime and make new Things! I Like to explore things, Well that's my Hobby. Beside coding I can draw pretty well. 
-I get inspirations from games. About 4 years before I started learning coding. I am a Game Developer | Web Developer and a Skillfull Artist, Basically I am Cool Guy 😎. 
-I go by Usernames - Kakashi, Ravanger101 and Aryan™
+> Greetings! **Aryan** Here. I am a **Student, Artist, Game-Software-Web Developer. Beside Programming I love watching Anime, Drawing and making new things!**
+
+> I find Coding very **Amazing**. Programming helps me keep my brain constantly thinking. I am on a **Quest** to create something awesome in this Digital World.
+
+> There are **Infinitely** many things I want to learn and work on it, Creating best of best piece of Applications for the World is my Mission.
 <!--<div align="center">
 <img src="./gif 2.gif" align="right"  width="300">
 </div>
