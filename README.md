@@ -64,7 +64,7 @@
   <div align="center">
 <img src="./KakashiCode.gif" align="center"  width="500">
   </div>
-<h3 align = "center">@ Copyright <a href="https://github.com/Ravanger101">Ravanger101</a></h3>
+<h3 align = "center">See you Around Developers!</h3>
   
  
 
