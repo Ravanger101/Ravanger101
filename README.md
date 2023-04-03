@@ -53,7 +53,7 @@
 * 🎧 <a href ="https://spotifyrealms.netlify.app/">Spotify Clone</a>
 * 🛒 <a href ="https://github.com/ProjectDragonRealms/Le-Caddie-#readme">Le Caddie`</a>
 * 🧾 <a href ="https://xpavilion.github.io/">Xpavilion</a>
-* 🎮 <a href ="https://turnipguy30.me/">Turnip's Website</a>
+* ✔ <a href ="https://turnipguy30.me/">Turnip's Website</a>
 * 🎮 <a href="https://kakashi101.itch.io">Itch</a>
 * 👾 <a href ="https://github.com/ProjectDragonRealms/MinecraftClassicPYVersion1.0">Minecraft PY Version 1.0</a>
 * 📁 <a href ="https://github.com/ProjectDragonRealms">My Organisation</a>
