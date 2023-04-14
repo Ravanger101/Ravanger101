@@ -45,10 +45,6 @@
 
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/reh_zrLMgDI)
-
-
-
 
 <details>
   <summary><h3>Projects</h3></summary>
@@ -72,11 +68,7 @@
 
   
   
-</details>
-  <div align="center">
-<img src="./KakashiCode.gif" align="center"  width="500">
-  </div>
-<h3 align = "center">See you Around Developers!</h3>
+[![Listen my Latest Song- Ramen](https://youtu.be/reh_zrLMgDI)
   
  
 
