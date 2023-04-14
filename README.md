@@ -47,7 +47,7 @@
 
 
 <details>
-  <summary><h3>Projects</h3></summary>
+  <summary><h3>Projects</h3>
   
 
   
@@ -63,6 +63,7 @@
 * 📁 <a href ="https://github.com/ProjectDragonRealms">My Organisation</a>
 * 👧 <a href ="https://github.com/ProjectDragonRealms/Inu-Yoshikawa.V.1.0.Benchmark#inu-yoshikawav10benchmark">Inu Yoshikawa Benchmark v1</a>
 * 🎃 <a href ="https://pokemon-pythonred.github.io/">Pokemon!</a>
+    </summary>
 
 
 
