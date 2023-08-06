@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I am Aryan! 😄</h1>
-<h3 align="center">Welcome to my GitHub Profile. (Fluctuating in Coding-10th Boards 😅)</h3>
+<h3 align="center">Welcome to my GitHub Profile.</h3>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ravanger101/count.svg"/>
@@ -65,7 +65,7 @@
 * 🎃 <a href ="https://pokemon-pythonred.github.io/">Pokemon!</a>
 * 🎵 <a href="https://youtu.be/p-HRjrIHtDE">Ramen - KAKASHI</a>
   
- 
+ (Fluctuating in Coding-10th Boards 😅)
 
 
 
