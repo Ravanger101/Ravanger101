@@ -64,8 +64,13 @@
 * 👧 <a href ="https://github.com/ProjectDragonRealms/Inu-Yoshikawa.V.1.0.Benchmark#inu-yoshikawav10benchmark">Inu Yoshikawa Benchmark v1</a>
 * 🎃 <a href ="https://pokemon-pythonred.github.io/">Pokemon!</a>
 * 🎵 <a href="https://youtu.be/p-HRjrIHtDE">Ramen - KAKASHI</a>
-  
- (Fluctuating in Coding-10th Boards 😅)
+
+
+
+
+
+
+(Fluctuating in Coding-10th Boards 😅)
 
 
 
